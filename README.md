@@ -5,7 +5,7 @@
 ### B.Tech Artificial Intelligence Student • Full-Stack Developer • Building AI Powered Applications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png.jpeg" width="320" alt="Developer Illustration">
+  <img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png.jpeg" width="220" alt="Developer Illustration">
 </p>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI+Powered+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
