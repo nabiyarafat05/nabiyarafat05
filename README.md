@@ -2,16 +2,16 @@
 
 # Hi 👋, I'm Nabiya Rafat
 
-### B.Tech Artificial Intelligence Student • Full-Stack Developer • Building AI-Powered Applications
+### B.Tech Artificial Intelligence Student • Full-Stack Developer • Building AI Powered Applications
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png" width="320" alt="Developer Illustration">
+  <img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png.jpeg" width="320" alt="Developer Illustration">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI+Powered+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
 
 <p>
-Passionate about creating intelligent, user-focused applications that combine Artificial Intelligence, modern web development, and real-world data.
+Passionate about creating intelligent, user focused applications that combine Artificial Intelligence, modern web development and real world data.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ Passionate about creating intelligent, user-focused applications that combine Ar
 ## 🚀 About Me
 
 - 🎓 B.Tech Student in Artificial Intelligence
-- 🌍 Currently building **Earth Explorer**, an interactive platform using satellite imagery and real-time geospatial data
+- 🌍 Currently building **Earth Explorer**, an interactive platform using satellite imagery and real time geospatial data
 - 💻 Interested in Full-Stack Web Development with React and Node.js
 - 🤖 Exploring how Artificial Intelligence can be integrated into real world web applications
 - 📚 Learning through hands on projects and continuously improving my development skills
@@ -79,7 +79,7 @@ Passionate about creating intelligent, user-focused applications that combine Ar
 
 # Earth Explorer
 
-An interactive web application that brings together satellite imagery, geospatial data, and earthquake visualization to help users explore Earth through real-world datasets.
+An interactive web application that brings together satellite imagery, geospatial data, and earthquake visualization to help users explore Earth through real world datasets.
 
 ### ✨ Highlights
 
