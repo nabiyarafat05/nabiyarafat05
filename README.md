@@ -8,13 +8,12 @@
   <img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png.jpeg" width="190" alt="Developer Illustration">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI+Powered+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New" />
+<br>
 
-<p>
-Passionate about creating intelligent, user focused applications that combine Artificial Intelligence, modern web development and real world data.
+<p align="center">
+Passionate about building modern web applications while exploring how Artificial Intelligence can solve real-world problems.
 </p>
-
-<p>
 <img src="https://komarev.com/ghpvc/?username=nabiyarafat05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/nabiyarafat05?style=for-the-badge"/>
