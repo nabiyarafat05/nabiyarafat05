@@ -94,7 +94,7 @@ React • Vite • JavaScript • Leaflet • NASA GIBS API • USGS API • Ope
 
 I wanted to combine my interest in Artificial Intelligence and web development by creating an application that presents real-world Earth observation data in an interactive and accessible way. This project helped me gain hands-on experience with APIs, geospatial visualization, and building responsive web applications.
 
-🔗 **Repository:** **
+🔗 **Repository:** *https://github.com/nabiyarafat05/earth-explorer*
 
 🔗 **Live Demo:** *https://earth-explorer-red.vercel.app*
 
