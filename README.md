@@ -1,46 +1,40 @@
 <h1 align="center">Hi 👋, I'm Nabiya Rafat</h1>
 
-<h3 align="center">
-B.Tech Artificial Intelligence Student • Full-Stack Developer • Building AI-Powered Applications
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;React+%7C+Node.js+%7C+Python;Always+Learning+New+Things+🚀"/>
+</p>
 
 <p align="center">
-I love building intelligent applications that combine AI, maps, satellite data and modern web technologies to solve real-world problems.
+<img src="https://komarev.com/ghpvc/?username=nabiyarafat05&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/nabiyarafat05?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/nabiyarafat05?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-- 🎓 B.Tech in Artificial Intelligence
-- 🌍 Currently building **Earth Explorer**
-- 🚨 Creator of **DisasterEye**
-- 💻 Passionate about Full-Stack Development & AI
-- 🌱 Learning React, Node.js, Python and Machine Learning
-- 🎯 Goal: Become an AI/Software Engineer
+🎓 B.Tech Artificial Intelligence Student
+
+💻 Full Stack Developer
+
+🤖 Passionate about AI, Machine Learning and Data Science
+
+🌍 Building real-world applications using React, Node.js and Python
+
+🚀 Currently working on **Earth Explorer**
+
+🎯 Goal: Become an AI Engineer & Software Developer
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,git,github,vscode,html,css"/>
 
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+</p>
 
 ---
 
@@ -48,21 +42,21 @@ I love building intelligent applications that combine AI, maps, satellite data a
 
 ## 🌍 Earth Explorer
 
-An interactive Earth exploration platform using NASA & satellite datasets.
+An interactive Earth visualization platform powered by satellite data.
 
 ### Features
 
-- 🛰 Satellite imagery
-- 🌎 Interactive world map
-- 📍 Search locations
-- 🤖 AI-powered disaster insights
-- 📱 Responsive interface
+- 🛰 Live Satellite Imagery
+- 🌎 Interactive Earth
+- 📍 Location Search
+- 🤖 AI Disaster Insights
+- 📱 Responsive UI
 
 ---
 
 ## 🚨 DisasterEye
 
-AI-powered disaster analysis platform that identifies disasters from satellite imagery and generates downloadable reports.
+AI-powered disaster detection platform that analyses satellite imagery and generates intelligent reports.
 
 ---
 
@@ -70,40 +64,77 @@ AI-powered disaster analysis platform that identifies disasters from satellite i
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabiyarafat05&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nabiyarafat05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiyarafat05&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiyarafat05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nabiyarafat05&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=nabiyarafat05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Current Focus
+# 🏆 GitHub Trophies
 
-- 🌍 Earth Explorer
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nabiyarafat05&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabiyarafat05&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
 - 🤖 Artificial Intelligence
-- 💻 Full-Stack Development
+- ⚛ React
+- 🟢 Node.js
+- 🧠 Machine Learning
+- ☁ Cloud Computing
 - 📊 Data Structures & Algorithms
-- ☁️ Cloud Technologies
 
 ---
 
-# 📫 Connect with Me
+# 💡 Interests
 
-- GitHub: https://github.com/nabiyarafat05
+- Artificial Intelligence
+- Full Stack Development
+- Open Source
+- Space Technology
+- Satellite Data Visualization
 
-*(Add your LinkedIn link here)*
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/nabiyarafat05">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Add your LinkedIn later -->
+
+</p>
 
 ---
 
 <p align="center">
 
-### ⭐ "Building projects that solve real-world problems."
+### ⭐ "Building projects that solve real-world problems with AI."
 
 </p>
