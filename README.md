@@ -106,6 +106,14 @@ A full-stack restaurant ordering platform built during a national-level hackatho
 
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
+
+</div>
+
 ---
 
 ## 🎯 Current Goals
