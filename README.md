@@ -74,13 +74,13 @@ Passionate about building modern web applications while exploring how Artificial
 - 📍 OpenStreetMap
 
 ---
-## 🌍 Featured Project
+## 🌍 Featured Projects
 
-# Earth Explorer
+### Earth Explorer
 
 An interactive web application that brings together satellite imagery, geospatial data, and earthquake visualization to help users explore Earth through real world datasets.
 
-### ✨ Highlights
+**✨ Highlights**
 
 - 🛰️ View NASA satellite imagery by date
 - 🌍 Visualize earthquake data from the USGS API
@@ -89,17 +89,29 @@ An interactive web application that brings together satellite imagery, geospatia
 - 🤖 Generate AI-powered explanations for earthquake events
 - 📱 Responsive interface for desktop and mobile devices
 
-### 🛠 Built With
+**🛠 Built With:** React • Vite • JavaScript • Leaflet • NASA GIBS API • USGS API • OpenStreetMap • CSS
 
-React • Vite • JavaScript • Leaflet • NASA GIBS API • USGS API • OpenStreetMap • CSS
-
-### 🎯 Why I Built It
-
-I wanted to combine my interest in Artificial Intelligence and web development by creating an application that presents real-world Earth observation data in an interactive and accessible way. This project helped me gain hands-on experience with APIs, geospatial visualization, and building responsive web applications.
+**🎯 Why I Built It:** I wanted to combine my interest in Artificial Intelligence and web development by creating an application that presents real-world Earth observation data in an interactive and accessible way. This project helped me gain hands-on experience with APIs, geospatial visualization, and building responsive web applications.
 
 🔗 **Repository:** *https://github.com/nabiyarafat05/earth-explorer*
-
 🔗 **Live Demo:** *https://earth-explorer-red.vercel.app*
+
+<br>
+
+### FoodOrder — AI-Powered Restaurant Ordering Platform
+
+A full-stack restaurant ordering platform built during a national-level hackathon, designed to streamline the food ordering experience with AI-assisted features.
+
+**✨ Highlights**
+
+- 🍽️ Browse menus and place orders through an interactive interface
+- 🤖 AI-assisted features to enhance the ordering experience
+- 📱 Responsive design for a smooth experience across devices
+- 🏆 Built as part of team **Quantum Coders**, ranked in the **Top 60** teams nationally at VibeAThon 6.0 (hosted by NXTGENSEC Pvt Ltd)
+
+**🛠 Built With:** React • Node.js • JavaScript • CSS
+
+**🎯 Why I Built It:** Built under hackathon time constraints, this project pushed me to rapidly prototype, integrate features under pressure, and collaborate closely with a team to ship a working product within a tight deadline.
 
 ---
 ## 📊 GitHub Statistics
@@ -114,7 +126,7 @@ I wanted to combine my interest in Artificial Intelligence and web development b
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nabiyarafat05&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nabiyarafat05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -145,19 +157,14 @@ I'm currently focusing on:
 </p>
 
 ---
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
 *"Learning by building, improving one project at a time."*
 
-</div>
-<div align="center">
-
-### Thanks for stopping by! 👋
-
 I'm always learning, building, and exploring new ideas. If you have feedback, collaboration opportunities, or just want to connect, feel free to reach out.
 
-⭐ Thanks for visiting my GitHub profile.
-
 </div>
+
