@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=220&section=header&text=Nabiya%20Rafat&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=94A3B8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Nabiya%20Rafat&fontSize=50&fontColor=38BDF8&animation=fadeIn&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New&background=0F172A00" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New" />
 
 <br>
 
@@ -61,12 +61,6 @@
 
 ## 🌍 Featured Projects
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A5F,100:0F172A&height=3&width=800"/>
-
-</div>
-
 ### 🛰️ Earth Explorer
 
 An interactive web application bringing together satellite imagery, geospatial data, and earthquake visualization — exploring Earth through real-world datasets.
@@ -112,16 +106,6 @@ A full-stack restaurant ordering platform built during a national-level hackatho
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
-
-<sub>✨ Animated snake eating my contribution graph — auto-updates daily. <a href="https://github.com/Platane/snk">Setup guide</a> if not visible yet.</sub>
-
-</div>
-
 ---
 
 ## 🎯 Current Goals
@@ -152,4 +136,3 @@ A full-stack restaurant ordering platform built during a national-level hackatho
 *"Learning by building, improving one project at a time."*
 
 </div>
-
