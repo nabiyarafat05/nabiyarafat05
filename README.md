@@ -1,170 +1,155 @@
 <div align="center">
 
-# Hi 👋, I'm Nabiya Rafat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=220&section=header&text=Nabiya%20Rafat&fontSize=55&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=94A3B8"/>
 
-### B.Tech Artificial Intelligence Student • Full-Stack Developer • Building AI Powered Applications
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New&background=0F172A00" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png.jpeg" width="190" alt="Developer Illustration">
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Full-Stack+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New" />
 <br>
 
-<p align="center">
-Passionate about building modern web applications while exploring how Artificial Intelligence can solve real-world problems.
-</p>
-<img src="https://komarev.com/ghpvc/?username=nabiyarafat05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nabiyarafat05&label=Profile%20Views&color=0F172A&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/nabiyarafat05?style=for-the-badge&color=1E3A5F&labelColor=0F172A"/>
+<img src="https://img.shields.io/github/stars/nabiyarafat05?style=for-the-badge&color=1E3A5F&labelColor=0F172A"/>
 
-<img src="https://img.shields.io/github/followers/nabiyarafat05?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/github/stars/nabiyarafat05?style=for-the-badge"/>
-</p>
+<br>
+
+## 🚀 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/main/developer.png.jpeg">
+
+- 🎓 B.Tech Student in Artificial Intelligence
+- 🌍 Currently building **Earth Explorer** — an interactive platform using satellite imagery and real-time geospatial data
+- 💻 Focused on Full-Stack Web Development with React and Node.js
+- 🤖 Exploring how Artificial Intelligence integrates into real-world applications
+- 📚 Learning through hands-on projects, one build at a time
+- 🎯 Goal: Build technology that solves meaningful real-world problems
+
+<br clear="both">
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+**🌍 APIs & Libraries:** NASA GIBS API • USGS Earthquake API • Leaflet.js • OpenStreetMap
+
+---
+
+## 🌍 Featured Projects
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A5F,100:0F172A&height=3&width=800"/>
+
+</div>
+
+### 🛰️ Earth Explorer
+
+An interactive web application bringing together satellite imagery, geospatial data, and earthquake visualization — exploring Earth through real-world datasets.
+
+**✨ Highlights**
+- 🛰️ View NASA satellite imagery by date
+- 🌍 Visualize live earthquake data from the USGS API
+- 📍 Search and navigate to locations worldwide
+- 🎬 Time-lapse feature for historical imagery
+- 🤖 AI-powered explanations for earthquake events (Gemini API)
+- 📱 Fully responsive across desktop and mobile
+
+**🛠 Built With:** `React` `Vite` `JavaScript` `Leaflet` `NASA GIBS API` `USGS API` `OpenStreetMap` `CSS`
+
+🔗 **Repo:** [earth-explorer](https://github.com/nabiyarafat05/earth-explorer) &nbsp;|&nbsp; 🔗 **Live:** [earth-explorer-red.vercel.app](https://earth-explorer-red.vercel.app)
+
+<br>
+
+### 🍽️ FoodOrder — AI-Powered Restaurant Ordering Platform
+
+A full-stack restaurant ordering platform built during a national-level hackathon, with AI-assisted ordering features.
+
+**✨ Highlights**
+- 🍽️ Interactive menu browsing and ordering flow
+- 🤖 AI-assisted features enhancing the ordering experience
+- 📱 Responsive design across devices
+- 🏆 Built with team **Quantum Coders** — **Top 60** nationally at VibeAThon 6.0 (NXTGENSEC Pvt Ltd)
+
+**🛠 Built With:** `React` `Node.js` `JavaScript` `CSS`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nabiyarafat05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiyarafat05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nabiyarafat05&theme=tokyonight&hide_border=true&background=0F172A"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nabiyarafat05/nabiyarafat05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation"/>
+
+<sub>✨ Animated snake eating my contribution graph — auto-updates daily. <a href="https://github.com/Platane/snk">Setup guide</a> if not visible yet.</sub>
 
 </div>
 
 ---
-## 🚀 About Me
 
-- 🎓 B.Tech Student in Artificial Intelligence
-- 🌍 Currently building **Earth Explorer**, an interactive platform using satellite imagery and real time geospatial data
-- 💻 Interested in Full-Stack Web Development with React and Node.js
-- 🤖 Exploring how Artificial Intelligence can be integrated into real world web applications
-- 📚 Learning through hands on projects and continuously improving my development skills
-- 🎯 Goal: Build technology that solves meaningful real-world problems
-
----
-## 💻 Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🌍 APIs & Libraries
-
-- 🛰️ NASA APIs
-- 🌎 USGS Earthquake API
-- 🗺️ Leaflet.js
-- 📍 OpenStreetMap
-
----
-## 🌍 Featured Projects
-
-### Earth Explorer
-
-An interactive web application that brings together satellite imagery, geospatial data, and earthquake visualization to help users explore Earth through real world datasets.
-
-**✨ Highlights**
-
-- 🛰️ View NASA satellite imagery by date
-- 🌍 Visualize earthquake data from the USGS API
-- 📍 Search and navigate to locations worldwide
-- 🎬 Explore historical imagery using a time-lapse feature
-- 🤖 Generate AI-powered explanations for earthquake events
-- 📱 Responsive interface for desktop and mobile devices
-
-**🛠 Built With:** React • Vite • JavaScript • Leaflet • NASA GIBS API • USGS API • OpenStreetMap • CSS
-
-**🎯 Why I Built It:** I wanted to combine my interest in Artificial Intelligence and web development by creating an application that presents real-world Earth observation data in an interactive and accessible way. This project helped me gain hands-on experience with APIs, geospatial visualization, and building responsive web applications.
-
-🔗 **Repository:** *https://github.com/nabiyarafat05/earth-explorer*
-🔗 **Live Demo:** *https://earth-explorer-red.vercel.app*
-
-<br>
-
-### FoodOrder — AI-Powered Restaurant Ordering Platform
-
-A full-stack restaurant ordering platform built during a national-level hackathon, designed to streamline the food ordering experience with AI-assisted features.
-
-**✨ Highlights**
-
-- 🍽️ Browse menus and place orders through an interactive interface
-- 🤖 AI-assisted features to enhance the ordering experience
-- 📱 Responsive design for a smooth experience across devices
-- 🏆 Built as part of team **Quantum Coders**, ranked in the **Top 60** teams nationally at VibeAThon 6.0 (hosted by NXTGENSEC Pvt Ltd)
-
-**🛠 Built With:** React • Node.js • JavaScript • CSS
-
-**🎯 Why I Built It:** Built under hackathon time constraints, this project pushed me to rapidly prototype, integrate features under pressure, and collaborate closely with a team to ship a working product within a tight deadline.
-
----
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nabiyarafat05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiyarafat05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=nabiyarafat05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 ## 🎯 Current Goals
 
-I'm currently focusing on:
-
-- 🌍 Building impactful web applications powered by AI
-- 💻 Strengthening my Full-Stack Development skills
+- 🌍 Building impactful AI-powered web applications
+- 💻 Strengthening Full-Stack Development skills
 - 🧠 Exploring practical applications of Artificial Intelligence
-- 📚 Improving my problem-solving through Data Structures & Algorithms
-- 🌱 Contributing consistently to GitHub by building real-world projects
+- 📚 Improving problem-solving through Data Structures & Algorithms
+- 🌱 Contributing consistently to GitHub with real-world projects
 
 ---
+
 ## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/nabiyarafat05">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nabiya-rafat-216445379?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="https://github.com/nabiyarafat05"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/></a>
+<a href="https://www.linkedin.com/in/nabiya-rafat-216445379?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:0F172A&height=120&section=footer"/>
 
 *"Learning by building, improving one project at a time."*
-
-I'm always learning, building, and exploring new ideas. If you have feedback, collaboration opportunities, or just want to connect, feel free to reach out.
 
 </div>
 
